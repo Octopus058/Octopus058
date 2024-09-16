@@ -1,3 +1,9 @@
+<div align="center">
+  
+![Visitor Count](https://profile-counter.glitch.me/jingyaogong/count.svg)
+
+</div>
+
 ### Ello my friends 👋
 
 Hello, I'm [Oct0pu5](https://Oct0pu5.cn/), a student of China University of Petroleum, Beijing.
