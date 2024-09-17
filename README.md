@@ -13,11 +13,13 @@ Hello, I'm [Oct0pu5](https://Oct0pu5.cn/), a student of China University of Petr
 
 👉 What I've done
 
-☞ Have Completed the construction and writing of my blog basically
+☞ Win a S prize in MCM/ICM 2024
+☞ Completed the construction and writing of my blog basically
+☞ Completed CUPDG v5.0.1
 
 👉 To-do list
 
-☞ Add more content to the blog
+☞ Add more content to the blog/CUPDG
 
 ☞ Learn from all dalaos
 
