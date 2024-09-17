@@ -26,3 +26,4 @@ Hello, I'm [Oct0pu5](https://Oct0pu5.cn/), a student of China University of Petr
 ☞ Learn from all dalaos
 
 ![Oct0pu5's GitHub stats](https://github-readme-stats.vercel.app/api?username=octopus058&count_private=true&theme=swift&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=octopus058&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
