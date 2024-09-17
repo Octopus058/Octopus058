@@ -13,7 +13,7 @@ Hello, I'm [Oct0pu5](https://Oct0pu5.cn/), a student of China University of Petr
 
 👉 What I've done
 
-☞ Win a S prize in MCM/ICM 2024
+☞ Win a S prize in 2024 MCM/ICM
 
 ☞ Completed the construction and writing of my blog basically
 
