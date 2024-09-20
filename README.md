@@ -10,7 +10,7 @@ Hello, I'm [Oct0pu5](https://Oct0pu5.cn/), a student of **China University of Pe
 
 <img align="right" src="https://github.githubassets.com/images/mona-whisper.gif" />
 
-☞ Known as "Lancet Ross" in English, "りゅマダコ" in Japanese and "Лев Лю Верный" in Russian
+☞ Known as _"Lancet Ross"_ in English, _"りゅマダコ"_ in Japanese and _"Лев Лю Верный"_ in Russian
 
 ☞ I speak Chinese and a little English</p>
 
@@ -18,11 +18,13 @@ Hello, I'm [Oct0pu5](https://Oct0pu5.cn/), a student of **China University of Pe
 
 👉 _What I've done_
 
-☞ Win a S prize in 2024 MCM/ICM
+☞ Win a _S prize_ in _2024 MCM/ICM_
 
 ☞ Completed the construction and writing of my blog basically
 
-☞ Completed CUPDG v5.0.1
+☞ Completed **CUPDG v5.0.1**
+
+☞ Contribute to **RSSHub**
 
 👉 _To-do list_
 
@@ -30,11 +32,13 @@ Hello, I'm [Oct0pu5](https://Oct0pu5.cn/), a student of **China University of Pe
 
 ☞ Learn from all dalaos
 
-☞ Make efforts for i18n
+☞ Make efforts for **i18n**
 
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=octopus058&count_private=true&theme=swift&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=octopus058&layout=compact&card_width=320" />
 </a>
+</div>
