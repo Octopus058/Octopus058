@@ -34,6 +34,8 @@ Hello, I'm [Oct0pu5](https://Oct0pu5.cn/), a student of **China University of Pe
 
 ☞ Make efforts for **i18n**
 
+[![Visit Count](https://count.getloli.com/get/@octopus058?theme=rule34)](#)
+
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=octopus058&count_private=true&theme=swift&show_icons=true" />
