@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=400&height=70&duration=4000&lines=Ello+👋+I'm+Oct0pu5;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=7000&lines=This+is+my+Black+Parade+🥈+🫲;" />
     <img align="right" src="https://github.githubassets.com/images/mona-whisper.gif" />
 </h1>
 
@@ -29,7 +29,7 @@ Hello, I'm [Oct0pu5](https://Oct0pu5.cn/), a student of **China University of Pe
 
 ☞ Make efforts for **i18n**
 
-## Stats
+## _Stats_
 
 <div align="center">
     
@@ -39,7 +39,10 @@ Hello, I'm [Oct0pu5](https://Oct0pu5.cn/), a student of **China University of Pe
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=octopus058&count_private=true&theme=swift&show_icons=true" />
 </a>
 <a href="https://github.com/octopus058">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=octopus058&layout=compact&card_width=320" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=octopus058&layout=compact&card_width=400" />
 </a>
 
+![](https://github-profile-trophy.vercel.app/?username=octopus058&theme=buefy&row=1)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=octopus058"></img>
 </div>
