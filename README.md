@@ -35,14 +35,15 @@ Hello, I'm [Oct0pu5](https://Oct0pu5.cn/), a student of **China University of Pe
     
 [![Visit Count](https://count.getloli.com/get/@octopus058?theme=rule34)](#)
 
-<a href="https://github.com/octopus058">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=octopus058&count_private=true&theme=swift&show_icons=true" />
+<a>
+  <img height=160 src="https://github-readme-stats.vercel.app/api?username=octopus058&count_private=true&theme=swift&show_icons=true" />
 </a>
-<a href="https://github.com/octopus058">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=octopus058&layout=compact&card_width=400" />
-</a>
+<a>
+  <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=octopus058&layout=compact&card_width=400" />
+</a><br/>
 
-![](https://github-profile-trophy.vercel.app/?username=octopus058&theme=buefy&row=1)
+<img src="https://github-profile-trophy.vercel.app/?username=octopus058&theme=buefy&row=1&column=6" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=octopus058"></img>
+
 </div>
