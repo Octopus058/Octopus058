@@ -17,13 +17,13 @@ Hello, I'm [Oct0pu5](https://Oct0pu5.cn/), a student of **China University of Pe
 
 ☞ Completed the construction and writing of my blog basically
 
-☞ Completed **CUPDG v5.0.1**
+☞ Completed [CUPDG v5.0.1](https://github.com/Octopus058/China-University-of-Petroleum-Dining-Guide)
 
-☞ Contributed to **RSSHub, GPT-SoVITS**, etc.
+☞ Contributed to [RSSHub](https://github.com/DIYgod/RSSHub), [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS), etc.
 
 ## 👉 _To-do list_
 
-☞ Add more content to the blog/CUPDG
+☞ Add more content to the _blog/CUPDG_
 
 ☞ Learn from all dalaos
 
