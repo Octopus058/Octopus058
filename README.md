@@ -15,19 +15,17 @@ Hello, I'm [Oct0pu5](https://Oct0pu5.cn/), a student of **China University of Pe
 
 ☞ Win a _S prize_ in _2024 MCM/ICM_
 
-☞ Completed the construction and writing of my blog basically
+☞ Completed the construction and writing of my [blog](https://oct0pu5.cn/) basically
 
-☞ Completed [CUPDG v5.0.1](https://github.com/Octopus058/China-University-of-Petroleum-Dining-Guide)
+☞ Completed [CUPDG v5.0.1](https://github.com/Octopus058/China-University-of-Petroleum-Dining-Guide/releases/tag/v5.0.1)
 
 ☞ Contributed to [RSSHub](https://github.com/DIYgod/RSSHub), [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS), etc.
 
 ## 👉 _To-do list_
 
-☞ Add more content to the _blog/CUPDG_
+☞ Adding more content to the [blog](https://oct0pu5.cn/)/[CUPDG](https://github.com/Octopus058/China-University-of-Petroleum-Dining-Guide)
 
-☞ Learn from all dalaos
-
-☞ Make efforts for **i18n**
+☞ Working on [CUPDS](https://github.com/OAOSS-CUP/China-University-of-Petroleum-Data-Site)
 
 ## _Stats_
 
