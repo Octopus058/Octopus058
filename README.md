@@ -3,41 +3,43 @@
     <img align="right" src="https://github.githubassets.com/images/mona-whisper.gif" />
 </h1>
 
-Hello, I'm [Oct0pu5](https://Oct0pu5.cn/), a student of **China University of Petroleum, Beijing**. I met Github when i was still in high school and that is _27 Jul, 2021_.
+Hello, I'm [Oct0pu5](https://Oct0pu5.cn/), a student of **China University of Petroleum, Beijing**. I met Github when i was still in high school and that is *27 Jul, 2021*.
 
-## 👉 _My name & language_
+## 👉 *My name & language*
 
-☞ Known as _"Lancet Ross"_ in English, _"りゅマダコ"_ in Japanese and _"Лев Лю Верный"_ in Russian
+☞ Known as *"Lancet Ross"* in English, *"りゅマダコ"* in Japanese and *"Лев Лю Верный"* in Russian
 
 ☞ Chinese and a little English :/
 
-## 👉 _What I've done_
+## 👉 *What I've done*
 
-☞ Win a _S prize_ in _2024 MCM/ICM_
+☞ *S prize* in *2024 MCM/ICM*
 
 ☞ Completed the construction and writing of my [blog](https://oct0pu5.cn/) basically
 
 ☞ Completed [CUPDG v5.0.1](https://github.com/Octopus058/China-University-of-Petroleum-Dining-Guide/releases/tag/v5.0.1)
 
-☞ Contributed to [RSSHub](https://github.com/DIYgod/RSSHub), [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS), etc.
+☞ Contributed to [RSSHub](https://github.com/DIYgod/RSSHub), [Achievements](https://github.com/gomzyakov/achievements), etc.
 
-## 👉 _To-do list_
+☞ A member of [OAOSS CUP](https://github.com/OAOSS-CUP).
+
+## 👉 *To-do list*
 
 ☞ Adding more content to the [blog](https://oct0pu5.cn/)/[CUPDG](https://github.com/Octopus058/China-University-of-Petroleum-Dining-Guide)
 
 ☞ Working on [CUPDS](https://github.com/OAOSS-CUP/China-University-of-Petroleum-Data-Site)
 
-## _Stats_
+## *Stats*
 
 <div align="center">
     
 [![Visit Count](https://count.getloli.com/get/@octopus058?theme=rule34)](#)
 
 <a>
-  <img height=160 src="https://github-readme-stats.vercel.app/api?username=octopus058&count_private=true&theme=swift&show_icons=true" />
+  <img height=160 src="https://github-readme-stats.vercel.app/api?username=octopus058&count*private=true&theme=swift&show*icons=true" />
 </a>
 <a>
-  <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=octopus058&layout=compact&card_width=400" />
+  <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=octopus058&layout=compact&card*width=400" />
 </a><br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=octopus058&theme=buefy&row=1&column=6" />
