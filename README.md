@@ -15,13 +15,13 @@ Hello, I'm [Oct0pu5](https://Oct0pu5.cn/), a student of **China University of Pe
 
 ☞ *S prize* in *2024 MCM/ICM*
 
-☞ Completed the construction and writing of my [blog](https://oct0pu5.cn/) basically.
+☞ Completed the construction and writing of my [blog](https://oct0pu5.cn/) basically
 
-☞ Completed [CUPDG v5.0.1](https://github.com/Octopus058/China-University-of-Petroleum-Dining-Guide/releases/tag/v5.0.1).
+☞ Completed [CUPDG v5.0.1](https://github.com/Octopus058/China-University-of-Petroleum-Dining-Guide/releases/tag/v5.0.1)
 
 ☞ Contributed to [RSSHub](https://github.com/DIYgod/RSSHub), [Achievements](https://github.com/gomzyakov/achievements), etc.
 
-☞ A member of [OAOSS CUP](https://github.com/OAOSS-CUP).
+☞ A member of [OAOSS CUP](https://github.com/OAOSS-CUP)
 
 ## 👉 *To-do list*
 
@@ -35,15 +35,11 @@ Hello, I'm [Oct0pu5](https://Oct0pu5.cn/), a student of **China University of Pe
     
 [![Visit Count](https://count.getloli.com/get/@octopus058?theme=rule34)](#)
 
-<a>
-  <img height=160 src="https://github-readme-stats.vercel.app/api?username=octopus058&count*private=true&theme=swift&show*icons=true" />
-</a>
-<a>
-  <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=octopus058&layout=compact&card*width=400" />
-</a><br/>
+<img height=160 src="https://github-readme-stats.vercel.app/api?username=octopus058&count_private=true&theme=swift&show_icons=true" />
+<img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=octopus058&layout=compact&card_width=300&exclude_repo=Clutter-in-high-school&langs_count=4" />
+<br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=octopus058&theme=buefy&row=1&column=6" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=octopus058"></img>
 
 </div>
