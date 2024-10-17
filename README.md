@@ -21,7 +21,7 @@ Hello, I'm [Oct0pu5](https://Oct0pu5.cn/), a student of **China University of Pe
 
 ☞ Contributed to [RSSHub](https://github.com/DIYgod/RSSHub), [Achievements](https://github.com/gomzyakov/achievements), etc.
 
-☞ A member of [OAOSS CUP](https://github.com/OAOSS-CUP)
+☞ A member of [OAOSS-CUP](https://github.com/OAOSS-CUP)
 
 ☞ Served as a volunteer in [GOSIM China 2024](https://china2024.gosim.org/zh), [RTE 2024](https://www.rteconf.com/), etc.
 
