@@ -25,6 +25,8 @@ Hello, I'm [Oct0pu5](https://Oct0pu5.cn/), a student of **China University of Pe
 
 ☞ Served as a volunteer in [GOSIM China 2024](https://china2024.gosim.org/zh), [RTE 2024](https://www.rteconf.com/), etc.
 
+☞ Obtained [OFCA-OpenHarmony](https://www.devedu.net/) certification
+
 ## 👉 *To-do list*
 
 ☞ Adding more content to the [blog](https://oct0pu5.cn/)/[CUPDG](https://github.com/Octopus058/China-University-of-Petroleum-Dining-Guide)
