@@ -15,8 +15,6 @@ Hello, I'm [Oct0pu5](https://Oct0pu5.cn/), a student of **China University of Pe
 
 ☞ *S prize* in *2024 MCM/ICM*
 
-☞ Completed the construction and writing of my [blog](https://oct0pu5.cn/) basically
-
 ☞ Completed [CUPDG v5.0.1](https://github.com/Octopus058/China-University-of-Petroleum-Dining-Guide/releases/tag/v5.0.1)
 
 ☞ Contributed to [RSSHub](https://github.com/DIYgod/RSSHub), [Achievements](https://github.com/gomzyakov/achievements), etc.
