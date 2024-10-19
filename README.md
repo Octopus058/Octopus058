@@ -13,13 +13,12 @@ Hello, I'm [Oct0pu5](https://Oct0pu5.cn/), a student of **China University of Pe
 
 ## 👉 *What I've done*
 
-☞ *S prize* in *2024 MCM/ICM*
+☞ A member of [OAOSS-CUP](https://github.com/OAOSS-CUP)
+
+☞ Contributed to [RSSHub](https://github.com/DIYgod/RSSHub), [fish-speech](https://github.com/fishaudio/fish-speech), etc.
 
 ☞ Completed [CUPDG v5.0.1](https://github.com/Octopus058/China-University-of-Petroleum-Dining-Guide/releases/tag/v5.0.1)
 
-☞ Contributed to [RSSHub](https://github.com/DIYgod/RSSHub), [Achievements](https://github.com/gomzyakov/achievements), etc.
-
-☞ A member of [OAOSS-CUP](https://github.com/OAOSS-CUP)
 
 ☞ Served as a volunteer in [GOSIM China 2024](https://china2024.gosim.org/zh), [RTE 2024](https://www.rteconf.com/), etc.
 
@@ -27,7 +26,7 @@ Hello, I'm [Oct0pu5](https://Oct0pu5.cn/), a student of **China University of Pe
 
 ## 👉 *To-do list*
 
-☞ Adding more content to the [blog](https://oct0pu5.cn/)/[CUPDG](https://github.com/Octopus058/China-University-of-Petroleum-Dining-Guide)
+☞ Adding more content to the [blog](https://oct0pu5.cn/) & [CUPDG](https://github.com/Octopus058/China-University-of-Petroleum-Dining-Guide)
 
 ☞ Working on [CUPDS](https://github.com/OAOSS-CUP/China-University-of-Petroleum-Data-Site)
 
