@@ -15,9 +15,11 @@ Hello, I'm [Oct0pu5](https://Oct0pu5.cn/), a student of **China University of Pe
 
 ☞ A member of [OAOSS-CUP](https://github.com/OAOSS-CUP)
 
+☞ A student member of [CCF](https://www.ccf.org.cn/)
+
 ☞ Contributed to [RSSHub](https://github.com/DIYgod/RSSHub), [fish-speech](https://github.com/fishaudio/fish-speech), etc.
 
-☞ Completed [CUPDG v5.0.1](https://github.com/Octopus058/China-University-of-Petroleum-Dining-Guide/releases/tag/v5.0.1)
+☞ Completed [CUPDG](https://github.com/Octopus058/China-University-of-Petroleum-Dining-Guide)
 
 
 ☞ Served as a volunteer in [GOSIM China 2024](https://china2024.gosim.org/zh), [RTE 2024](https://www.rteconf.com/), etc.
