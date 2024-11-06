@@ -5,13 +5,13 @@
 
 Hello, I'm [Oct0pu5](https://Oct0pu5.cn/), a student of **China University of Petroleum, Beijing**. I met Github when i was still in high school and that is *27 Jul, 2021*.
 
-## 👉 *My name & language*
+## 🎨 *My name & language*
 
 ☞ Known as *"Lancet Ross"* in English, *"りゅマダコ"* in Japanese and *"Лев Лю Верный"* in Russian
 
 ☞ Chinese and a little English :/
 
-## 👉 *What I've done*
+## ✊ *What I've done*
 
 ☞ A member of [OAOSS-CUP](https://github.com/OAOSS-CUP)
 
@@ -26,13 +26,13 @@ Hello, I'm [Oct0pu5](https://Oct0pu5.cn/), a student of **China University of Pe
 
 ☞ Obtained [OFCA-OpenHarmony](https://www.devedu.net/) certification
 
-## 👉 *To-do list*
+## 🤔 *To-do list*
 
 ☞ Adding more content to the [blog](https://oct0pu5.cn/) & [CUPDG](https://github.com/Octopus058/China-University-of-Petroleum-Dining-Guide)
 
-☞ Working on [CUPDS](https://github.com/OAOSS-CUP/China-University-of-Petroleum-Data-Site)
+☞ Working on [CUPDS](https://github.com/OAOSS-CUP/China-University-of-Petroleum-Data-Site), SigmAth, BVFQS
 
-## *Stats*
+## 📜 *Stats*
 
 <div align="center">
     
