@@ -30,7 +30,7 @@ Hello, I'm [Oct0pu5](https://Oct0pu5.cn/), a student of **China University of Pe
 
 ## 🤔 *To-do list*
 
-☞ Adding more content to the [blog](https://oct0pu5.cn/) & [CUPDG](https://github.com/Octopus058/China-University-of-Petroleum-Dining-Guide)
+☞ Maintaining my [blog](https://oct0pu5.cn/) & [CUPDG](https://github.com/Octopus058/China-University-of-Petroleum-Dining-Guide)
 
 ☞ Working on [CUPDS](https://github.com/OAOSS-CUP/China-University-of-Petroleum-Data-Site), ~SigmAth~, BVFQS (preview)
 
