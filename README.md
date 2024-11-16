@@ -1,13 +1,12 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=7000&lines=This+is+my+Black+Parade+🥈+🫲;" />
-    <img align="right" src="https://github.githubassets.com/images/mona-whisper.gif" />
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&center=true&width=870&height=200&lines=This+is+my+Black+Parade+%F0%9F%A5%88+%F0%9F%AB%B2" alt="Typing SVG" /></a>
 </h1>
 
 Hello, I'm [Oct0pu5](https://Oct0pu5.cn/), a student of **China University of Petroleum, Beijing**. I met Github when i was still in high school and that is *27 Jul, 2021*.
 
 ## 🎨 *My name & language*
 
-☞ Known as *"Lancet Ross"* in English, *"りゅマダコ"* in Japanese and *"Лев Лю Верный"* in Russian
+☞ Known as *"Lancet Ross"* in English, *"りゅう マダコ"* in Japanese and *"Лев Лю Верный"* in Russian
 
 ☞ Chinese and a little English :/
 
@@ -30,7 +29,7 @@ Hello, I'm [Oct0pu5](https://Oct0pu5.cn/), a student of **China University of Pe
 
 ☞ Adding more content to the [blog](https://oct0pu5.cn/) & [CUPDG](https://github.com/Octopus058/China-University-of-Petroleum-Dining-Guide)
 
-☞ Working on [CUPDS](https://github.com/OAOSS-CUP/China-University-of-Petroleum-Data-Site), SigmAth, BVFQS
+☞ Working on [CUPDS](https://github.com/OAOSS-CUP/China-University-of-Petroleum-Data-Site), ~SigmAth~, BVFQS (preview)
 
 ## 📜 *Stats*
 
