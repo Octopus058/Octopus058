@@ -36,4 +36,13 @@ Hello, I'm [Oct0pu5](https://Oct0pu5.cn/), a student of **China University of Pe
 
 ## 📜 *Stats*
 
-![Metrics](https://beta-metrics.lecoq.io/Octopus058?template=terminal&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=4&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.aliases=Visual%20Basic%206.0%3AVB6.0&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Etc%2FGMT-8)
+<div align="center">
+
+<img height=160 src="https://github-readme-stats.vercel.app/api?username=octopus058&count_private=true&theme=swift&show_icons=true" />
+<img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=octopus058&layout=compact&card_width=300&exclude_repo=Clutter-in-high-school&langs_count=4" />
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=octopus058&theme=buefy&row=1&column=6" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=octopus058"></img>
+
+</div>
