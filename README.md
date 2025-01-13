@@ -5,7 +5,7 @@
 
 </h1>
 
-Hello, I'm [Oct0pu5](https://Oct0pu5.cn/), a student of **China University of Petroleum, Beijing**. I met Github when i was still in high school and that is *27 Jul, 2021*.
+Hello, I'm [Oct0pu5](https://Oct0pu5.cn/), a student of **China University of Petroleum, Beijing**. I met GitHub on *July 27th, 2021*.
 
 ## 🎨 *My name & language*
 
@@ -23,7 +23,6 @@ Hello, I'm [Oct0pu5](https://Oct0pu5.cn/), a student of **China University of Pe
 
 ☞ Completed [CUPDG](https://github.com/Octopus058/China-University-of-Petroleum-Dining-Guide)
 
-
 ☞ Served as a volunteer in [GOSIM China 2024](https://china2024.gosim.org/zh), [RTE 2024](https://www.rteconf.com/), etc.
 
 ☞ Obtained [OFCA-OpenHarmony](https://www.devedu.net/) certification
@@ -32,7 +31,7 @@ Hello, I'm [Oct0pu5](https://Oct0pu5.cn/), a student of **China University of Pe
 
 ☞ Maintaining my [blog](https://oct0pu5.cn/) & [CUPDG](https://github.com/Octopus058/China-University-of-Petroleum-Dining-Guide)
 
-☞ Working on [CUPDS](https://github.com/OAOSS-CUP/China-University-of-Petroleum-Data-Site), ~SigmAth~, BVFQS (preview)
+☞ Working on [CUPDS](https://github.com/OAOSS-CUP/China-University-of-Petroleum-Data-Site), ~SigmAth~, [BVFQS](https://github.com/Octopus058/Beijing-Volunteer-Service-Federation-Quick-Search)
 
 ## 📜 *Stats*
 
