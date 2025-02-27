@@ -15,7 +15,7 @@ Hello, I'm [Oct0pu5](https://Oct0pu5.cn/), a student of **China University of Pe
 
 ## ✊ *What I've done*
 
-☞ A member of [OAOSS-CUP](https://github.com/OAOSS-CUP)
+☞ A member of [OSA-CUP](https://github.com/OSA-CUP)
 
 ☞ A student member of [CCF](https://www.ccf.org.cn/)
 
