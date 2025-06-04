@@ -23,7 +23,7 @@ Hello, I'm [Oct0pu5](https://Oct0pu5.cn/), a student of **China University of Pe
 
 ☞ Completed [China University of Petroleum Dining Guide (CUPDG)](https://github.com/Octopus058/China-University-of-Petroleum-Dining-Guide)
 
-☞ Completed China University of Petroleum Deft Hand (CUPDH)
+☞ Collaborator of China University of Petroleum Deft Hand (CUPDH)
 
 ☞ Completed [Beijing Volunteer Service Federation Quick Search (BVFQS)](https://github.com/Octopus058/Beijing-Volunteer-Service-Federation-Quick-Search)
 
