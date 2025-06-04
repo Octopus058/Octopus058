@@ -1,5 +1,5 @@
 <h1 align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&center=true&width=870&height=200&lines=This+is+my+Black+Parade+%F0%9F%A5%88+%F0%9F%AB%B2" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&center=true&width=870&height=200&lines=Hello+world!" alt="Typing SVG" /></a>
    
    [![Visit Count](https://count.getloli.com/get/@octopus058?theme=rule34)](#)
 
@@ -23,7 +23,9 @@ Hello, I'm [Oct0pu5](https://Oct0pu5.cn/), a student of **China University of Pe
 
 ☞ Completed [China University of Petroleum Dining Guide (CUPDG)](https://github.com/Octopus058/China-University-of-Petroleum-Dining-Guide)
 
-☞ Completed [China University of Petroleum Deft Hand (CUPDH)]
+☞ Completed China University of Petroleum Deft Hand (CUPDH)
+
+☞ Completed [Beijing Volunteer Service Federation Quick Search (BVFQS)](https://github.com/Octopus058/Beijing-Volunteer-Service-Federation-Quick-Search)
 
 ☞ Served as a volunteer in [GOSIM China 2024](https://china2024.gosim.org/zh), [RTE 2024](https://www.rteconf.com/), etc.
 
@@ -31,19 +33,17 @@ Hello, I'm [Oct0pu5](https://Oct0pu5.cn/), a student of **China University of Pe
 
 ## 🤔 *To-do list*
 
-☞ Maintaining my [blog](https://oct0pu5.cn/) & [CUPDG](https://github.com/Octopus058/China-University-of-Petroleum-Dining-Guide)
+☞ Maintaining [my blog](https://oct0pu5.cn/), [CUPDG](https://github.com/Octopus058/China-University-of-Petroleum-Dining-Guide), [BVFQS](https://github.com/Octopus058/Beijing-Volunteer-Service-Federation-Quick-Search), CUPDH.
 
-☞ Working on [CUPDS](https://github.com/OAOSS-CUP/China-University-of-Petroleum-Data-Site), ~SigmAth~, [BVFQS](https://github.com/Octopus058/Beijing-Volunteer-Service-Federation-Quick-Search)
-
+☞ Working on SigmAth.
 ## 📜 *Stats*
 
 <div align="center">
 
 <img height=160 src="https://github-readme-stats.vercel.app/api?username=octopus058&count_private=true&theme=swift&show_icons=true" />
-<img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=octopus058&layout=compact&card_width=300&exclude_repo=Clutter-in-high-school&langs_count=4" />
+<img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=octopus058&layout=compact&card_width=330&exclude_repo=Clutter-in-high-school&langs_count=4" />
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=octopus058&theme=buefy&row=1&column=6" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=octopus058"></img>
 
 </div>
