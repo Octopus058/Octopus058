@@ -9,7 +9,7 @@ Hello, I'm [Oct0pu5](https://Oct0pu5.cn/), a student of **China University of Pe
 
 ## 🎨 *My name & language*
 
-☞ Known as *"Lancet Ross"* in English, *"りゅう マダコ"* in Japanese and *"Лев Лю Верный"* in Russian
+☞ Known as *"Lancet Ross"* in English
 
 ☞ Chinese and a little English :/
 
@@ -33,9 +33,8 @@ Hello, I'm [Oct0pu5](https://Oct0pu5.cn/), a student of **China University of Pe
 
 ## 🤔 *To-do list*
 
-☞ Maintaining [my blog](https://oct0pu5.cn/), [CUPDG](https://github.com/Octopus058/China-University-of-Petroleum-Dining-Guide), [BVFQS](https://github.com/Octopus058/Beijing-Volunteer-Service-Federation-Quick-Search), CUPDH.
+☞ Maintaining [my blog](https://oct0pu5.cn/), [CUPDG](https://github.com/Octopus058/China-University-of-Petroleum-Dining-Guide), [BVFQS](https://github.com/Octopus058/Beijing-Volunteer-Service-Federation-Quick-Search).
 
-☞ Working on SigmAth.
 ## 📜 *Stats*
 
 <div align="center">
