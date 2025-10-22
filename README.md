@@ -33,7 +33,9 @@ Hello, I'm [Oct0pu5](https://Oct0pu5.cn/), a student of **China University of Pe
 
 ## 🤔 *To-do list*
 
-☞ Maintaining [my blog](https://oct0pu5.cn/), [CUPDG](https://github.com/Octopus058/China-University-of-Petroleum-Dining-Guide), [BVFQS](https://github.com/Octopus058/Beijing-Volunteer-Service-Federation-Quick-Search).
+☞ Maintaining [my blog](https://oct0pu5.cn/), [CUPDG](https://github.com/Octopus058/China-University-of-Petroleum-Dining-Guide).
+
+☞ Working on Introduction to Convex Optimization.
 
 ## 📜 *Stats*
 
