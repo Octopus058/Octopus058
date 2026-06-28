@@ -23,13 +23,12 @@ Hello, I'm [Oct0pu5](https://Oct0pu5.cn/), a student of **China University of Pe
 
 ☞ Completed [China University of Petroleum Dining Guide (CUPDG)](https://github.com/Octopus058/China-University-of-Petroleum-Dining-Guide)
 
+☞ Completed [Introduction to Linux](https://github.com/Octopus058/Introduction-to-Linux-latex), [Retracing the Path of Linear Algebra](https://github.com/Octopus058/Retracing-the-Path-of-Linear-Algebra), [Introduction to Compressed Sensing](https://github.com/Octopus058/Introduction-to-Compressed-Sensing), etc.
+
 ☞ Collaborator of China University of Petroleum Deft Hand (CUPDH)
 
 ☞ Completed [Beijing Volunteer Service Federation Quick Search (BVFQS)](https://github.com/Octopus058/Beijing-Volunteer-Service-Federation-Quick-Search)
 
-☞ Served as a volunteer in [GOSIM China 2024](https://china2024.gosim.org/zh), [RTE 2024](https://www.rteconf.com/), etc.
-
-☞ Obtained [OFCA-OpenHarmony](https://www.devedu.net/) certification
 
 ## 🤔 *To-do list*
 
