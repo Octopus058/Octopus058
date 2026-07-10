@@ -1,11 +1,10 @@
 <h1 align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&center=true&width=870&height=200&lines=Hello+world!" alt="Typing SVG" /></a>
    
    [![Visit Count](https://count.getloli.com/get/@octopus058?theme=rule34)](#)
 
 </h1>
 
-Hello, I'm [Oct0pu5](https://Oct0pu5.cn/), a student of **China University of Petroleum, Beijing**. I met GitHub on *July 27th, 2021*.
+Hello, I'm [Oct0pu5](https://Oct0pu5.cn/), a student of **China University of Petroleum, Beijing**.
 
 ## 🎨 *My name & language*
 
@@ -34,7 +33,7 @@ Hello, I'm [Oct0pu5](https://Oct0pu5.cn/), a student of **China University of Pe
 
 ☞ Maintaining [my blog](https://oct0pu5.cn/), [CUPDG](https://github.com/Octopus058/China-University-of-Petroleum-Dining-Guide).
 
-☞ Working on Introduction to Convex Optimization.
+☞ Working on Introduction to Convex Optimization, Introduction to Digital Image Processing.
 
 ## 📜 *Stats*
 
