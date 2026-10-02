@@ -4,7 +4,7 @@
 
 </h1>
 
-Hello, I'm [Oct0pu5](https://Oct0pu5.cn/), a student at China University of Petroleum, Beijing. I will soon begin doctoral studies at IGGCAS.
+Hello, I'm [Oct0pu5](https://Oct0pu5.cn/), a student at China University of Petroleum, Beijing. I will soon begin doctoral studies at The Institute of Geology and Geophysics, Chinese Academy of Sciences.
 
 ## 🎨 *My name & language*
 
